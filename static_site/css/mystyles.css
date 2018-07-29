@@ -1,0 +1,14 @@
+body {
+    max-width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #3D5C61;
+}
+
+canvas {
+    background-color: #eee;
+    border: 1px solid black;
+}
