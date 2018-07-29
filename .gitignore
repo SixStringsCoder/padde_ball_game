@@ -20,5 +20,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/audio
+/static_site/audio
 /static_site

@@ -14,10 +14,9 @@ The _static_site_ folder is the game developed with JavaScript following the tut
 Take the JavaScript-developed Paddle Ball game and refactor it using React JS.
 
 ## Development Plan
-
 - Sketch out components based on simple UI
 
-![simple-ui]("./static_site/img/simple_ui.png")
+![simple-ui](./static_site/img/simple_ui.png)
 
 - Create components and move HTML, CSS and JavaScript over to the component files
 
